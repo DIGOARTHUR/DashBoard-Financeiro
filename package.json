@@ -3,7 +3,7 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
+  "dependencies": { 
     "axios": "^0.26.1",
     "gh-pages": "^3.2.3",
     "miragejs": "^0.1.43",
