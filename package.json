@@ -1,9 +1,11 @@
 {
+  "homepage": "http://digoarthur.github.io/DashBoard-Financeiro",
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.26.1",
+    "gh-pages": "^3.2.3",
     "miragejs": "^0.1.43",
     "polished": "^4.2.2",
     "react": "^18.0.0",
@@ -26,6 +28,8 @@
     "@types/styled-components": "^5.1.24"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
