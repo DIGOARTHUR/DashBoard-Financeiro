@@ -49,7 +49,7 @@ https://simpleicons.org/?q=react
     
   <!------------------------------------PROJECT ICON-->
   <h1 align="center">
-  <img width="100" height="100" alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153732380-eb4f896d-23e3-44cd-8ccd-5ca75a34a80e.svg" />
+  <img width="200" height="150" alt="dtmoney" title="dtmoney" src="https://user-images.githubusercontent.com/59892368/163898567-20684725-e8c1-49b9-8a52-4aedfeb3b7e3.svg" />
 </h1>
 
  <!------------------------------------SUMMARY-->
@@ -68,15 +68,17 @@ https://simpleicons.org/?q=react
   
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Descrição
+> Esta aplicação é um Dashboard de registros financeiros para acompanhamento de valores de entrada, saída e total.
 
 
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
 
-<p align="center">
- 
-  </p>
+## Desktop
+<div align="center" >
+  
+  <a href="https://move-it-pomodoro.vercel.app"><img src="https://user-images.githubusercontent.com/59892368/163900810-52d8176d-7622-4cbe-aa28-93406001de59.png" width="1287" height="715"><a/>
+</div>
 
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
@@ -85,12 +87,19 @@ https://simpleicons.org/?q=react
 * JavaScript
    * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
    * [`Spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-*  [`SASS`](https://sass-lang.com) 
+   * [`Format Currency`](https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale)
+* Style
+  *  [`Styled Components`](https://sass-lang.com) 
+*  API mocking
+  *  [`MirageJS`](https://miragejs.com) 
+* Cliente HTTP   
+  *  [`Axios`](https://axios-http.com/ptbr/docs/intro) 
 * React
-  <!--* [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)-->
-  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
-  * [`Estado`](https://www.w3schools.com/react/react_usestate.asp) (UseState() - Controle de mudança de dados)
-* [`React-Icons`](https://react-icons.github.io/react-icons/) (Apliação de ícones para personalizar as funcionalidades)
+  * [`Props`](https://www.w3schools.com/react/react_props.asp) (Aplicar passagem de propriedades nos Componentes)
+  * [`Component`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
+  * [`State`](https://www.w3schools.com/react/react_usestate.asp) (UseState() - Controle de mudança de dados)
+  * [`Context`](https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e) (Compartilhamento de dados entre componentes)
+
   
   
 
@@ -111,7 +120,7 @@ https://simpleicons.org/?q=react
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/Task.TODO.git
+git clone https://github.com/DIGOARTHUR/DashBoard-Financeiro.git
 ```
 
 2. Instalar dependências
