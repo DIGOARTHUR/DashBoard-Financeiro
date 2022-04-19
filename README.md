@@ -91,7 +91,7 @@ https://simpleicons.org/?q=react
 * Style
   *  [`Styled Components`](https://sass-lang.com) 
 *  API mocking
-  *  [`MirageJS`](https://miragejs.com) 
+    *  [`MirageJS`](https://miragejs.com) 
 * Cliente HTTP   
   *  [`Axios`](https://axios-http.com/ptbr/docs/intro) 
 * React
