@@ -136,7 +136,17 @@ git clone https://github.com/DIGOARTHUR/DashBoard-Financeiro.git
 ```
 yarn install
 ```
+ 
+3. Ajustar endereço de acesso baseURL do axios para as requisições. Arquivo: `services` > `api.ts`
+ 
+```
+import axios from 'axios';
 
+export const api = axios.create({
+    baseURL:'http://localhost:3000/api',
+})
+```
+ 
 3. Rodar aplicativo
 
 ```
