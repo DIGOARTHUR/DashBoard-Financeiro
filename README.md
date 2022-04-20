@@ -9,16 +9,19 @@ ICONS
 https://simpleicons.org/?q=react
 -->
 
+ <!------------------------------------BANNER PROJECT-->
+
 <p align="center">
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/163741548-c53122c4-2bf7-4e96-b194-fbd7c2af4d41.png">
 </p> 
 
-![GitHub](https://img.shields.io/github/license/digoarthur/Task.TODO)
-![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Task.TODO)
+ <!------------------------------------SHIELDS PROJECT-->
+![GitHub](https://img.shields.io/github/license/digoarthur/DashBoard-Financeiro)
+![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/DashBoard-Financeiro)
 
-
-#### Stacks:
  <!------------------------------------STACKS-->
+ 
+#### Stacks:
 <p align="left">
 
   
@@ -29,9 +32,18 @@ https://simpleicons.org/?q=react
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
 
 </p>
+  <!------------------------------------SHIELDS STACKS-->
      
+  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+ <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-Context-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>    
+     
+     
+     
+ <!------------------------------------TOOLS-->
  #### Tools:
- <!------------------------------------STACKS-->
+
 <p align="left">
 
   <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
@@ -39,11 +51,6 @@ https://simpleicons.org/?q=react
  
 </p>
      
-
-
-
-
-
 
 ---
     
@@ -73,7 +80,8 @@ https://simpleicons.org/?q=react
   <!------------------------------------LAYOUT -->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
-
+<a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+    
 ## Desktop
 <div align="center" >
   
