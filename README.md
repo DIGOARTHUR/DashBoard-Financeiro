@@ -34,10 +34,13 @@ https://simpleicons.org/?q=react
 </p>
   <!------------------------------------SHIELDS STACKS-->
      
-  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax"> ![Alt ou título da imagem](https://img.shields.io/badge/-Spread-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+      <a href="https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale"> ![Alt ou título da imagem](https://img.shields.io/badge/-FormatCurrency-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-Context-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
 <a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
    <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>    
+     <a href="https://devdigoarthur.notion.site/Property-c51db4c88a264741bb09389fe20a25f7"> ![Alt ou título da imagem](https://img.shields.io/badge/-Props-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>  
      
      
      
