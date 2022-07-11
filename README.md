@@ -37,10 +37,10 @@ https://simpleicons.org/?q=react
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax"> ![Alt ou título da imagem](https://img.shields.io/badge/-Spread-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
       <a href="https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale"> ![Alt ou título da imagem](https://img.shields.io/badge/-FormatCurrency-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-Context-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>    
-     <a href="https://devdigoarthur.notion.site/Property-c51db4c88a264741bb09389fe20a25f7"> ![Alt ou título da imagem](https://img.shields.io/badge/-Props-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>  
+ <a href="https://reactjs.org/docs/context.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Context-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+<a href="https://reactjs.org/docs/state-and-lifecycle.html">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
+   <a href="https://reactjs.org/docs/components-and-props.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>    
+     <a href="https://reactjs.org/docs/components-and-props.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Props-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>  
      
      
      
@@ -107,9 +107,9 @@ https://simpleicons.org/?q=react
   *  [`Axios`](https://axios-http.com/ptbr/docs/intro) 
 * React
   * [`Props`](https://www.w3schools.com/react/react_props.asp) (Aplicar passagem de propriedades nos Componentes)
-  * [`Component`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão da aplicação em componentes)
+  * [`Component`](https://reactjs.org/docs/components-and-props.html) ( Divisão da aplicação em componentes)
   * [`State`](https://www.w3schools.com/react/react_usestate.asp) (UseState() - Controle de mudança de dados)
-  * [`Context`](https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e) (Compartilhamento de dados entre componentes)
+  * [`Context`](https://reactjs.org/docs/context.html) (Compartilhamento de dados entre componentes)
 
   
   
@@ -174,10 +174,9 @@ git remote -v
 ```
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-A aplicação da aula do Chapter II da trilha ReactJS foi muito divertida! Busco seguir essa trilha para aprender o FrontEnd de uma forma enriquecedora, onde eu possa compreender, aplicar e ver rodando o que programo. Este é o meu foco, e venho aprendendo cada vez mais isso com a Rocketseat.
+A aplicação da aula do Chapter II da trilha ReactJS da [@Rocketseat](https://github.com/Rocketseat) foi muito divertida! Busco seguir essa trilha para aprender o FrontEnd de uma forma enriquecedora, onde eu possa compreender, aplicar e ver rodando o que programo. Este é o meu foco, e venho aprendendo cada vez mais isso com a Rocketseat.
    
    ---
   Só tenho a agradecer! ♥
  
- <!--<a href="https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05">Notion</a>-->
  
