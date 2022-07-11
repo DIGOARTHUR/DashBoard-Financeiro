@@ -86,11 +86,11 @@ https://simpleicons.org/?q=react
 <a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
     
 ## Desktop
-<div align="center" >
-  
-  <a href="https://digoarthur.github.io/DashBoard-Financeiro/"><img src="https://user-images.githubusercontent.com/59892368/163900810-52d8176d-7622-4cbe-aa28-93406001de59.png" width="915" height="500"><a/>
-</div>
 
+![image](https://user-images.githubusercontent.com/59892368/178364272-4741ee5d-b05f-47df-9e95-7d985d116d1a.png)
+
+
+  <!------------------------------------PRODUCTION SKILLS-->
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
@@ -122,7 +122,7 @@ https://simpleicons.org/?q=react
 -->
 
 
-
+  <!------------------------------------RUN APP-->
  
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
@@ -172,6 +172,8 @@ git remote set-url origin <LinkDoNovoRepositorio>
 ```
 git remote -v
 ```
+
+  <!------------------------------------WHY/THANKS->
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
 A aplicação da aula do Chapter II da trilha ReactJS da [@Rocketseat](https://github.com/Rocketseat) foi muito divertida! Busco seguir essa trilha para aprender o FrontEnd de uma forma enriquecedora, onde eu possa compreender, aplicar e ver rodando o que programo. Este é o meu foco, e venho aprendendo cada vez mais isso com a Rocketseat.
