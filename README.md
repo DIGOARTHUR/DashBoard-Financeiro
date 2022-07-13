@@ -89,6 +89,8 @@ https://simpleicons.org/?q=react
 
 ![image](https://user-images.githubusercontent.com/59892368/178364272-4741ee5d-b05f-47df-9e95-7d985d116d1a.png)
 
+![image](https://user-images.githubusercontent.com/59892368/178840668-83e941d6-e975-48ce-9eaa-cbda715f53a8.png)
+
 
   <!------------------------------------PRODUCTION SKILLS-->
 
