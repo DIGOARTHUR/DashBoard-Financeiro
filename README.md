@@ -60,7 +60,7 @@ https://simpleicons.org/?q=react
 <p align="center">
 <a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DIGOARTHUR/DashBoard-Financeiro#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p> 
