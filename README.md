@@ -11,9 +11,8 @@ https://simpleicons.org/?q=react
 
  <!------------------------------------BANNER PROJECT-->
 
-<p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/163741548-c53122c4-2bf7-4e96-b194-fbd7c2af4d41.png">
-</p> 
+![image](https://user-images.githubusercontent.com/59892368/163741548-c53122c4-2bf7-4e96-b194-fbd7c2af4d41.png)
+
 
  <!------------------------------------SHIELDS PROJECT-->
 ![GitHub](https://img.shields.io/github/license/digoarthur/DashBoard-Financeiro)
@@ -25,22 +24,14 @@ https://simpleicons.org/?q=react
 <p align="left">
 
   
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
-   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
+   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg"><a/>
    <a href="https://sass-lang.com"><img  alt="SASS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/163742043-d6c47b38-187c-47d5-8d09-b1870b86b612.png"><a/>
-   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
-   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
+  <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
+   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
 
 </p>
-  <!------------------------------------SHIELDS STACKS-->
-     
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax"> ![Alt ou título da imagem](https://img.shields.io/badge/-Spread-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-      <a href="https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale"> ![Alt ou título da imagem](https://img.shields.io/badge/-FormatCurrency-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://reactjs.org/docs/context.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Context-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-<a href="https://reactjs.org/docs/state-and-lifecycle.html">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-   <a href="https://reactjs.org/docs/components-and-props.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>    
-     <a href="https://reactjs.org/docs/components-and-props.html"> ![Alt ou título da imagem](https://img.shields.io/badge/-Props-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>  
+
      
      
      
@@ -49,8 +40,9 @@ https://simpleicons.org/?q=react
 
 <p align="left">
 
-  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
-  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   
  
 </p>
      
@@ -87,34 +79,60 @@ https://simpleicons.org/?q=react
     
 ## Desktop
 
-![image](https://user-images.githubusercontent.com/59892368/178364272-4741ee5d-b05f-47df-9e95-7d985d116d1a.png)
-
-![image](https://user-images.githubusercontent.com/59892368/178840668-83e941d6-e975-48ce-9eaa-cbda715f53a8.png)
-
-
-  <!------------------------------------PRODUCTION SKILLS-->
-
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
+|                             Tela Principal                             |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178364272-4741ee5d-b05f-47df-9e95-7d985d116d1a.png) |
 
 
-* JavaScript
-   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
+|                             Modal                             |
+| :-------------------------------------------------------------------: |
+|  ![image](https://user-images.githubusercontent.com/59892368/178840668-83e941d6-e975-48ce-9eaa-cbda715f53a8.png) |
+
+
+
+
+
+
+  
+
+  
+
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
    * [`Spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
    * [`Format Currency`](https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale)
-* Style
-  *  [`Styled Components`](https://sass-lang.com) 
-*  API mocking
-    *  [`MirageJS`](https://miragejs.com) 
-* Cliente HTTP   
-  *  [`Axios`](https://axios-http.com/ptbr/docs/intro) 
-* React
-  * [`Props`](https://www.w3schools.com/react/react_props.asp) (Aplicar passagem de propriedades nos Componentes)
-  * [`Component`](https://reactjs.org/docs/components-and-props.html) ( Divisão da aplicação em componentes)
-  * [`State`](https://www.w3schools.com/react/react_usestate.asp) (UseState() - Controle de mudança de dados)
-  * [`Context`](https://reactjs.org/docs/context.html) (Compartilhamento de dados entre componentes)
+   
 
+
+   
+### Estilização 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-styledComponents-/?logo=styled-components&logoColor=white&color=orange)<a/>
+
+   
+### Framework / Lib
+<a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
+  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+  * [`Props`](https://reactjs.org/docs/state-and-lifecycle.html) (Recurso utilizado para passar atributos de um componente pai para outro componente filho)
+  * [`Context API`](https://reactjs.org/docs/context.html) (Usado para compartilhar dados de Estado, Funções etc... entre componentes diferentes. Faz com que a visão seja global.)
   
   
+### Gerenciador / Pacotes
+ <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+  * [`MirageJS`](https://miragejs.com) (API mocking)
+  * [`Axios`](https://axios-http.com/ptbr/docs/intro) (Cliente HTTP )
+  
+ ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>  
+
+
 
 
 <!--
