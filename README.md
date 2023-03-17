@@ -103,9 +103,9 @@ https://simpleicons.org/?q=react
 
 ### Lógica 
 *  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
-   * [`Spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)(Método usado para fazer cópia de uma array já existente)
-   * [`Format Currency`](https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale)(Método para formatação de monetária)
+   * [`map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
+   * [`spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)(Método usado para fazer cópia de uma array já existente)
+   * [`format Currency`](https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale)(Método para formatação de monetária)
    
 
 
