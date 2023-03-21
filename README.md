@@ -69,7 +69,7 @@ https://simpleicons.org/?q=react
   
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esta aplicação é um Dashboard de registros financeiros para acompanhamento de valores de entrada, saída e total. Neste projeto é aplicado conceitos de Styled Components (Estilização) , MirageJS (API), Context, Axios, além dos conceitos básicos de ReacjJS como State, Components, Props. Recursos do JS como: Map, Format Currency, Spread.
+> Esta aplicação é um Dashboard de registros financeiros para acompanhamento de valores de entrada, saída e total. Neste projeto é aplicado conceitos de Styled Components (Estilização) , MirageJS (API), Context, Axios, além dos conceitos básicos de ReacjJS como State, Components, Props. Recursos do JS aplicado ao Typescript como: Map, Format Currency, Spread.
 
   <!------------------------------------LAYOUT -->
 
