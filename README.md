@@ -25,7 +25,6 @@ https://simpleicons.org/?q=react
 
   
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
-   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg"><a/>
    <a href="https://sass-lang.com"><img  alt="SASS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/163742043-d6c47b38-187c-47d5-8d09-b1870b86b612.png"><a/>
   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
@@ -102,12 +101,15 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 ### Lógica 
-*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+
+ <a href="https://www.typescriptlang.org/"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
+ * [`TypeScript`](https://www.typescriptlang.org/) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
    * [`map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com retorno de conteúdo trabalhado, com outro formato, contexto.)
    * [`spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)(Método usado para fazer cópia de uma array já existente)
    * [`format Currency`](https://stackoverflow.com/questions/60011347/intl-numberformat-doesnt-convert-to-pt-br-locale)(Método para formatação de monetária)
-   
 
+
+ 
 
    
 ### Estilização 
